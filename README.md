@@ -2,7 +2,7 @@
 
 This is an extensible wallet specification aimed at replacing V4 and allowing arbitrary extensions.
 
-W5 has **25% lower fees**, supports **gasless transactions** (via third party relayers) and implements a **flexible extension mechanism**.
+W5 has **75% lower fees**, supports **gasless transactions** (via third party relayers) and implements a **flexible extension mechanism**.
 
 ## Project structure
 
