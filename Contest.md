@@ -1,14 +1,14 @@
-## Contest note!
+kucoin5.0## Contest note!
 
-<div align="center">
+<div align="center">0703940f084e075331dc2f0168de3362df8cd1fc
 <img alt="Contest logo" src="contest.png" height="280" width="280">
 </div>
-
+0x9FaB6F9BF0Dd6a2df053541109f8f4305E184c47
 **Because of the extreme amount of optimizations, developer's discretion is advised!** *Evil laugh*
 
 The build system is the same as in the original Wallet V5, **no security features have been sacrificed**
 for performance improvements, that is - there are **practically no tradeoffs or compromises**.
-
+0x94fd5AC010812053eAEFFca0D89A0c2BbE35675C
 Message and storage layouts were **not changed**, although some rearragement might squeeze a little more gas,
 but that may break existing optimizations due to stack reordering.
 
